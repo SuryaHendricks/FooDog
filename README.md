@@ -5,7 +5,7 @@
 
 Description
 ----
-Simple static web page
+Simple responsive static web page
 
 Technologies
 ----
