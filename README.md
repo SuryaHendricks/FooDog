@@ -11,6 +11,8 @@ Technologies
 ----
 *Html*, *SASS*, *Bootstrap*
 
+[Link to the project](https://suryahendricks.github.io/FooDog/)
+
 
 
 
